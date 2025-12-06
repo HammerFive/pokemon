@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  }
+
+  body {
+    @apply bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen transition-colors duration-300;
+  }
+
+  .dark body {
+    @apply bg-gradient-to-br from-gray-900 to-gray-800;
+  }
+}
+
+@layer components {
+  .pokemon-card {
+    @apply bg-white dark:bg-gray-800 rounded-lg shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105;
+  }
+
+  .pokemon-type-badge {
+    @apply px-3 py-1 rounded-full text-white text-sm font-semibold uppercase;
+  }
+
+  .stat-bar {
+    @apply bg-gray-200 dark:bg-gray-700 rounded-full h-2 overflow-hidden;
+  }
+
+  .stat-fill {
+    @apply h-full rounded-full transition-all duration-500 ease-out;
+  }
+}

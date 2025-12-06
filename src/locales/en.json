@@ -1,0 +1,119 @@
+{
+  "nav": {
+    "home": "Home",
+    "pokemon": "Pokémon",
+    "types": "Types",
+    "abilities": "Abilities"
+  },
+  "home": {
+    "title": "Welcome to Pokémon Features",
+    "subtitle": "Explore the complete world of Pokémon - browse all Pokémon, their types, abilities, stats, and more!",
+    "features": {
+      "pokemon": {
+        "title": "All Pokémon",
+        "description": "Browse through all Pokémon",
+        "button": "Explore"
+      },
+      "types": {
+        "title": "Types",
+        "description": "Discover Pokémon types and strengths",
+        "button": "View Types"
+      },
+      "abilities": {
+        "title": "Abilities",
+        "description": "Explore unique Pokémon abilities",
+        "button": "See Abilities"
+      },
+      "stats": {
+        "title": "Stats",
+        "description": "Compare Pokémon stats and rankings",
+        "button": "Compare"
+      }
+    },
+    "quickStats": {
+      "title": "Quick Stats",
+      "totalPokemon": "Total Pokémon",
+      "types": "Types",
+      "generations": "Generations",
+      "abilities": "Abilities"
+    }
+  },
+  "pokemon": {
+    "title": "Pokémon",
+    "search": "Search Pokémon...",
+    "searchButton": "Search",
+    "showing": "Showing {count} of {total} Pokémon",
+    "previous": "Previous",
+    "next": "Next",
+    "page": "Page {current} of {total}",
+    "back": "← Back",
+    "height": "Height",
+    "weight": "Weight",
+    "baseExperience": "Base Experience",
+    "generation": "Generation",
+    "types": "Types",
+    "habitat": "Habitat",
+    "growthRate": "Growth Rate",
+    "legendary": "Legendary",
+    "mythical": "Mythical",
+    "baseStats": "Base Stats",
+    "totalStats": "Total Stats",
+    "abilities": "Abilities",
+    "hidden": "Hidden",
+    "description": "Description",
+    "evolutionChain": "Evolution Chain",
+    "comingSoon": "Evolution chain feature coming soon!",
+    "noDescription": "No description available.",
+    "hp": "HP",
+    "attack": "Attack",
+    "defense": "Defense",
+    "specialAttack": "Sp. Atk",
+    "specialDefense": "Sp. Def",
+    "speed": "Speed"
+  },
+  "types": {
+    "title": "Pokémon Types",
+    "loading": "Loading types...",
+    "strongAgainst": "Strong Against (2x Damage)",
+    "weakAgainst": "Not Very Effective (0.5x Damage)",
+    "noEffectOn": "No Effect (0x Damage)",
+    "vulnerableTo": "Vulnerable To (2x Damage)",
+    "resistantTo": "Resistant To (0.5x Damage)",
+    "immuneTo": "Immune To (0x Damage)",
+    "pokemon": "Pokémon",
+    "moves": "Moves"
+  },
+  "abilities": {
+    "title": "Pokémon Abilities",
+    "search": "Search abilities...",
+    "searchButton": "Search",
+    "showing": "Showing {count} of {total} abilities",
+    "previous": "Previous",
+    "next": "Next",
+    "page": "Page {current} of {total}",
+    "mainSeries": "Main Series",
+    "yes": "Yes",
+    "no": "No",
+    "hidden": "Hidden",
+    "viewDetails": "View Details",
+    "effect": "Effect",
+    "shortEffect": "Short Effect",
+    "usedBy": "Used by {count} Pokémon:",
+    "flavorText": "Flavor Text",
+    "more": "+{count} more"
+  },
+  "common": {
+    "loading": "Loading...",
+    "tryAgain": "Try Again",
+    "error": "Error",
+    "notFound": "Not Found",
+    "unknown": "Unknown"
+  },
+  "theme": {
+    "toggleDark": "Toggle Dark Mode",
+    "toggleLight": "Toggle Light Mode"
+  },
+  "language": {
+    "switchTo": "Switch to {language}"
+  }
+}

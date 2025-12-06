@@ -1,0 +1,119 @@
+{
+  "nav": {
+    "home": "首页",
+    "pokemon": "宝可梦",
+    "types": "属性",
+    "abilities": "特性"
+  },
+  "home": {
+    "title": "欢迎来到宝可梦世界",
+    "subtitle": "探索完整的宝可梦世界 - 浏览所有宝可梦、它们的属性、能力、数值等等！",
+    "features": {
+      "pokemon": {
+        "title": "所有宝可梦",
+        "description": "浏览所有宝可梦",
+        "button": "探索"
+      },
+      "types": {
+        "title": "属性",
+        "description": "发现宝可梦属性和优势",
+        "button": "查看属性"
+      },
+      "abilities": {
+        "title": "特性",
+        "description": "探索独特的宝可梦特性",
+        "button": "查看特性"
+      },
+      "stats": {
+        "title": "数值",
+        "description": "比较宝可梦数值和排名",
+        "button": "比较"
+      }
+    },
+    "quickStats": {
+      "title": "快速统计",
+      "totalPokemon": "宝可梦总数",
+      "types": "属性",
+      "generations": "世代",
+      "abilities": "特性"
+    }
+  },
+  "pokemon": {
+    "title": "宝可梦",
+    "search": "搜索宝可梦...",
+    "searchButton": "搜索",
+    "showing": "显示 {count} / {total} 个宝可梦",
+    "previous": "上一页",
+    "next": "下一页",
+    "page": "第 {current} / {total} 页",
+    "back": "← 返回",
+    "height": "身高",
+    "weight": "体重",
+    "baseExperience": "基础经验",
+    "generation": "世代",
+    "types": "属性",
+    "habitat": "栖息地",
+    "growthRate": "成长率",
+    "legendary": "传说",
+    "mythical": "幻之",
+    "baseStats": "基础数值",
+    "totalStats": "总数值",
+    "abilities": "特性",
+    "hidden": "隐藏",
+    "description": "描述",
+    "evolutionChain": "进化链",
+    "comingSoon": "进化链功能即将推出！",
+    "noDescription": "暂无描述。",
+    "hp": "HP",
+    "attack": "攻击",
+    "defense": "防御",
+    "specialAttack": "特攻",
+    "specialDefense": "特防",
+    "speed": "速度"
+  },
+  "types": {
+    "title": "宝可梦属性",
+    "loading": "正在加载属性...",
+    "strongAgainst": "克制（2倍伤害）",
+    "weakAgainst": "效果不佳（0.5倍伤害）",
+    "noEffectOn": "无效果（0倍伤害）",
+    "vulnerableTo": "被克制（受到2倍伤害）",
+    "resistantTo": "抵抗（受到0.5倍伤害）",
+    "immuneTo": "免疫（受到0倍伤害）",
+    "pokemon": "宝可梦",
+    "moves": "招式"
+  },
+  "abilities": {
+    "title": "宝可梦特性",
+    "search": "搜索特性...",
+    "searchButton": "搜索",
+    "showing": "显示 {count} / {total} 个特性",
+    "previous": "上一页",
+    "next": "下一页",
+    "page": "第 {current} / {total} 页",
+    "mainSeries": "主要系列",
+    "yes": "是",
+    "no": "否",
+    "hidden": "隐藏",
+    "viewDetails": "查看详情",
+    "effect": "效果",
+    "shortEffect": "简短效果",
+    "usedBy": "{count} 个宝可梦拥有此特性：",
+    "flavorText": "描述文本",
+    "more": "另外 {count} 个"
+  },
+  "common": {
+    "loading": "加载中...",
+    "tryAgain": "重试",
+    "error": "错误",
+    "notFound": "未找到",
+    "unknown": "未知"
+  },
+  "theme": {
+    "toggleDark": "切换深色模式",
+    "toggleLight": "切换浅色模式"
+  },
+  "language": {
+    "switchTo": "切换到{language}"
+  }
+}
